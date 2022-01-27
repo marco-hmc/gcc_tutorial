@@ -2,8 +2,8 @@
 
 [toc]
 
-> 本文为阅读[source](https://makefiletutorial.com/#beginner-examples)所写的笔记。这里是对应的[仓库](https://github.com/marco-hmc/makefile_tutorial)。
->
+> 本文为阅读[source](https://makefiletutorial.com/#beginner-examples)所写的笔记。这里是对应的[仓库](https://github.com/marco-hmc/gcc_tutorial)。
+> 如果觉得对你有用，请给个star，让我知道确确实实帮助了他人
 > 估计阅读耗时：1.5h
 
 ### 1. Getting started
